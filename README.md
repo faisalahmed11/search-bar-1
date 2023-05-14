@@ -1,4 +1,4 @@
-# Search-bar
+# Expnading Search-Bar
 
 ## Table of contents
 
